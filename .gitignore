@@ -1,0 +1,3 @@
+node_modules
+cloud_functions/pubsub_to_bq/test/resources
+cloud_functions/pubsub_to_bq/src/resources
